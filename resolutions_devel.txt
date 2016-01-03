@@ -1,4 +1,4 @@
 Resolutions developpement 2016
 ==============================
 
-- se former à ...
+- se former à Angular et Node
