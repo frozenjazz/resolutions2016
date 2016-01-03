@@ -3,3 +3,4 @@ Resolutions musique
 
 - convertir tout le catalogue de soundclick.com/fzj sur vers frozenjazz.com
 - gérer mailing list
+- finir les beats en cours avant d'en créer de nouveaux
