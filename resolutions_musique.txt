@@ -2,3 +2,4 @@ Resolutions musique
 ===================
 
 - convertir tout le catalogue de soundclick.com/fzj sur vers frozenjazz.com
+- gérer mailing list
